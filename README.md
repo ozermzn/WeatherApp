@@ -1,3 +1,6 @@
 # WeatherApp
-Basic weather app.
-https://weatherapphappines.netlify.app/
+Basic weather app with js.
+
+
+
+Overview -> https://weatherhappines.netlify.app/
